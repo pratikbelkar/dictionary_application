@@ -1,4 +1,5 @@
-import 'package:dictionary_application/splash_scrren.dart';
+import 'package:dictionary_application/screens/splash_scrren.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
